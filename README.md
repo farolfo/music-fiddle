@@ -1,9 +1,11 @@
 music fiddle
 ============
 
+
 _The jsfiddle for music_
 
-Another open source way to share music online in a simple and quick way, being able to record with multitracks at the same time and share it without even being logged in. 
+An open source way to share music online in a simple and quick way, being able to record with multitracks at the same time and share it without even being logged in. 
+
 The key here is the HTML5 Audio API.
 
 
